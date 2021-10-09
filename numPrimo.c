@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*crear un programa con una funcion la cual reciba dos parametros (intervalos), y devolver los numeros primos entre esos intervalos */
+/* crear un programa que pida por pantalla 2 numeros y devolver los numeros primos entre esos intervalos */
 
 int main()
 {
